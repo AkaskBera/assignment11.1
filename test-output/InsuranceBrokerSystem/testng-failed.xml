@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [InsuranceBrokerSystem]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.qa.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.qa.testcases.TC_Logout">
+        <methods>
+          <include name="logout"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.testcases.TC_Logout -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [InsuranceBrokerSystem] -->

@@ -1,0 +1,172 @@
+2021-07-15 18:34:09,745 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 18:34:09,768 [main] INFO insuranceBrokerGuru99 - The title of the page is --> Insurance Broker System
+2021-07-15 18:34:09,784 [main] INFO insuranceBrokerGuru99 - The current url is --> http://demo.guru99.com/insurance/v1/header.php
+2021-07-15 18:34:09,878 [main] INFO insuranceBrokerGuru99 - The text Broker Insurance WebPage is present.
+2021-07-15 18:34:17,700 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 18:34:17,750 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 18:34:17,787 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 18:34:24,784 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 18:34:24,833 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 18:34:24,873 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 18:34:31,627 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 18:34:31,673 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 18:34:31,708 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 18:34:39,532 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 18:34:39,592 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 18:34:39,640 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 18:34:48,060 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 18:34:48,177 [main] INFO insuranceBrokerGuru99 - Clicked on Request Quotation tab.
+2021-07-15 18:34:48,229 [main] INFO insuranceBrokerGuru99 - Request Quotation tab is present.
+2021-07-15 18:34:48,334 [main] INFO insuranceBrokerGuru99 - Yes radio button is selected successfully.
+2021-07-15 18:34:48,528 [main] INFO insuranceBrokerGuru99 - Value is entered successfully and the value is 10001000
+2021-07-15 18:34:48,903 [main] INFO insuranceBrokerGuru99 - Public Place is selected successfully.
+2021-07-15 18:34:49,089 [main] INFO insuranceBrokerGuru99 - Your Discount is: 30%
+Premium: £140035 . Discount and Premium are calculated and are not null.
+2021-07-15 18:34:49,203 [main] INFO insuranceBrokerGuru99 - Entered value are resetted successfully.
+2021-07-15 18:34:59,693 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 18:35:00,756 [main] INFO insuranceBrokerGuru99 - Successfully logged out from the site. Login button is present
+2021-07-15 18:35:00,768 [main] INFO insuranceBrokerGuru99 - Current URL is --> http://demo.guru99.com/insurance/v1/index.php
+2021-07-15 18:35:00,778 [main] INFO insuranceBrokerGuru99 - Current page title is --> Insurance Broker System - Login
+2021-07-15 18:54:38,352 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 18:54:38,370 [main] INFO insuranceBrokerGuru99 - The title of the page is --> Insurance Broker System
+2021-07-15 18:54:38,383 [main] INFO insuranceBrokerGuru99 - The current url is --> http://demo.guru99.com/insurance/v1/header.php
+2021-07-15 18:54:38,451 [main] INFO insuranceBrokerGuru99 - The text Broker Insurance WebPage is present.
+2021-07-15 18:54:45,528 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 18:54:45,583 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 18:54:45,631 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 18:54:53,029 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 18:54:53,088 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 18:54:53,127 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 18:55:00,314 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 18:55:00,369 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 18:55:00,400 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 18:55:08,033 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 18:55:08,086 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 18:55:08,128 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 18:55:17,929 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 18:55:18,041 [main] INFO insuranceBrokerGuru99 - Clicked on Request Quotation tab.
+2021-07-15 18:55:18,090 [main] INFO insuranceBrokerGuru99 - Request Quotation tab is present.
+2021-07-15 18:55:18,193 [main] INFO insuranceBrokerGuru99 - Yes radio button is selected successfully.
+2021-07-15 18:55:18,393 [main] INFO insuranceBrokerGuru99 - Value is entered successfully and the value is 10001000
+2021-07-15 18:55:18,731 [main] INFO insuranceBrokerGuru99 - Public Place is selected successfully.
+2021-07-15 18:55:18,919 [main] INFO insuranceBrokerGuru99 - Your Discount is: 30%
+Premium: £140035 Discount and Premium are calculated and are not null.
+2021-07-15 18:55:19,032 [main] INFO insuranceBrokerGuru99 - Entered value are resetted successfully.
+2021-07-15 18:55:27,266 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 18:55:28,498 [main] INFO insuranceBrokerGuru99 - Successfully logged out from the site. Login button is present
+2021-07-15 18:55:28,509 [main] INFO insuranceBrokerGuru99 - Current URL is --> http://demo.guru99.com/insurance/v1/index.php
+2021-07-15 18:55:28,522 [main] INFO insuranceBrokerGuru99 - Current page title is --> Insurance Broker System - Login
+2021-07-15 19:08:55,033 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 19:08:55,050 [main] INFO insuranceBrokerGuru99 - The title of the page is --> Insurance Broker System
+2021-07-15 19:08:55,062 [main] INFO insuranceBrokerGuru99 - The current url is --> http://demo.guru99.com/insurance/v1/header.php
+2021-07-15 19:08:55,120 [main] INFO insuranceBrokerGuru99 - The text Broker Insurance WebPage is present.
+2021-07-15 19:09:02,052 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:09:02,105 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:09:02,142 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:09:09,497 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:09:09,552 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:09:09,586 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:09:17,258 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:09:17,318 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:09:17,351 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:09:24,189 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:09:24,238 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:09:24,281 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:09:34,512 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 19:09:34,658 [main] INFO insuranceBrokerGuru99 - Clicked on Request Quotation tab.
+2021-07-15 19:09:34,707 [main] INFO insuranceBrokerGuru99 - Request Quotation tab is present.
+2021-07-15 19:09:34,834 [main] INFO insuranceBrokerGuru99 - Yes radio button is selected successfully.
+2021-07-15 19:09:35,060 [main] INFO insuranceBrokerGuru99 - Value is entered successfully and the value is 10001000
+2021-07-15 19:09:35,420 [main] INFO insuranceBrokerGuru99 - Public Place is selected successfully.
+2021-07-15 19:09:35,596 [main] INFO insuranceBrokerGuru99 - Your Discount is: 30%
+Premium: £140035 Discount and Premium are calculated and are not null.
+2021-07-15 19:09:35,713 [main] INFO insuranceBrokerGuru99 - Entered value are resetted successfully.
+2021-07-15 19:09:45,167 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 19:09:46,484 [main] INFO insuranceBrokerGuru99 - Successfully logged out from the site. Login button is present
+2021-07-15 19:09:46,494 [main] INFO insuranceBrokerGuru99 - Current URL is --> http://demo.guru99.com/insurance/v1/index.php
+2021-07-15 19:38:36,028 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:38:36,118 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:38:36,156 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:38:36,484 [main] INFO insuranceBrokerGuru99 - Testcase failed
+2021-07-15 19:38:43,069 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:38:43,123 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:38:43,158 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:38:43,472 [main] INFO insuranceBrokerGuru99 - Testcase failed
+2021-07-15 19:38:51,442 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:38:51,500 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:38:51,534 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:38:51,837 [main] INFO insuranceBrokerGuru99 - Testcase failed
+2021-07-15 19:38:58,051 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:38:58,092 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:38:58,135 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:38:58,411 [main] INFO insuranceBrokerGuru99 - Testcase failed
+2021-07-15 19:44:13,787 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 19:44:13,804 [main] INFO insuranceBrokerGuru99 - The title of the page is --> Insurance Broker System
+2021-07-15 19:44:13,817 [main] INFO insuranceBrokerGuru99 - The current url is --> http://demo.guru99.com/insurance/v1/header.php
+2021-07-15 19:44:13,877 [main] INFO insuranceBrokerGuru99 - The text Broker Insurance WebPage is present.
+2021-07-15 19:44:14,212 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:44:22,169 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:44:22,232 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:44:22,267 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:44:22,547 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:44:29,033 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:44:29,096 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:44:29,133 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:44:29,418 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:44:36,308 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:44:36,353 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:44:36,386 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:44:36,712 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:44:43,878 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:44:43,941 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:44:43,981 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:44:44,233 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:44:53,747 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 19:44:53,858 [main] INFO insuranceBrokerGuru99 - Clicked on Request Quotation tab.
+2021-07-15 19:44:53,912 [main] INFO insuranceBrokerGuru99 - Request Quotation tab is present.
+2021-07-15 19:44:54,016 [main] INFO insuranceBrokerGuru99 - Yes radio button is selected successfully.
+2021-07-15 19:44:54,226 [main] INFO insuranceBrokerGuru99 - Value is entered successfully and the value is 10001000
+2021-07-15 19:44:54,572 [main] INFO insuranceBrokerGuru99 - Public Place is selected successfully.
+2021-07-15 19:44:54,758 [main] INFO insuranceBrokerGuru99 - Your Discount is: 30%
+Premium: £140035 Discount and Premium are calculated and are not null.
+2021-07-15 19:44:54,877 [main] INFO insuranceBrokerGuru99 - Entered value are resetted successfully.
+2021-07-15 19:44:55,026 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:45:04,306 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 19:45:05,628 [main] INFO insuranceBrokerGuru99 - Successfully logged out from the site. Login button is present
+2021-07-15 19:45:05,639 [main] INFO insuranceBrokerGuru99 - Current URL is --> http://demo.guru99.com/insurance/v1/index.php
+2021-07-15 19:50:16,515 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 19:50:16,535 [main] INFO insuranceBrokerGuru99 - The title of the page is --> Insurance Broker System
+2021-07-15 19:50:16,547 [main] INFO insuranceBrokerGuru99 - The current url is --> http://demo.guru99.com/insurance/v1/header.php
+2021-07-15 19:50:16,602 [main] INFO insuranceBrokerGuru99 - The text Broker Insurance WebPage is present.
+2021-07-15 19:50:16,912 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:50:24,741 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:50:24,795 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:50:24,830 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:50:25,106 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:50:33,026 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:50:33,077 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:50:33,118 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:50:33,404 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:50:39,934 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:50:39,980 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:50:40,014 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:50:40,297 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:50:47,823 [main] INFO insuranceBrokerGuru99 - Trying to login...
+2021-07-15 19:50:47,876 [main] INFO insuranceBrokerGuru99 - Login is unsuccessful. Login button is present.
+2021-07-15 19:50:47,910 [main] INFO insuranceBrokerGuru99 - The error message is displayed --> Enter your Email address and password correct
+2021-07-15 19:50:48,186 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:50:58,550 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 19:50:58,664 [main] INFO insuranceBrokerGuru99 - Clicked on Request Quotation tab.
+2021-07-15 19:50:58,720 [main] INFO insuranceBrokerGuru99 - Request Quotation tab is present.
+2021-07-15 19:50:58,827 [main] INFO insuranceBrokerGuru99 - Yes radio button is selected successfully.
+2021-07-15 19:50:59,027 [main] INFO insuranceBrokerGuru99 - Value is entered successfully and the value is 10001000
+2021-07-15 19:50:59,359 [main] INFO insuranceBrokerGuru99 - Public Place is selected successfully.
+2021-07-15 19:50:59,544 [main] INFO insuranceBrokerGuru99 - Your Discount is: 30%
+Premium: £140035 Discount and Premium are calculated and are not null.
+2021-07-15 19:50:59,661 [main] INFO insuranceBrokerGuru99 - Entered value are resetted successfully.
+2021-07-15 19:50:59,802 [main] INFO insuranceBrokerGuru99 - Testcase passed
+2021-07-15 19:51:09,630 [main] INFO insuranceBrokerGuru99 - Login is successful. Logout button is present in the page.
+2021-07-15 19:51:11,065 [main] INFO insuranceBrokerGuru99 - Successfully logged out from the site. Login button is present
+2021-07-15 19:51:11,077 [main] INFO insuranceBrokerGuru99 - Current URL is --> http://demo.guru99.com/insurance/v1/index.php
+2021-07-15 19:51:11,088 [main] INFO insuranceBrokerGuru99 - Current page title is --> Insurance Broker System - Login
+2021-07-15 19:51:11,358 [main] INFO insuranceBrokerGuru99 - Testcase passed

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-15T14:20:06Z" name="InsuranceBrokerSystem" finished-at="2021-07-15T14:21:11Z" duration-ms="65406">
+    <groups>
+    </groups>
+    <test started-at="2021-07-15T14:20:06Z" name="Test" finished-at="2021-07-15T14:21:11Z" duration-ms="65406">
+      <class name="com.qa.testcases.TC_Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.TC_Login@54eb2b70]" started-at="2021-07-15T14:20:06Z" name="setup" finished-at="2021-07-15T14:20:16Z" duration-ms="9917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTest()[pri:0, instance:com.qa.testcases.TC_Login@54eb2b70]" started-at="2021-07-15T14:20:16Z" name="loginPageTest" description="Login with valid credentials" finished-at="2021-07-15T14:20:16Z" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.TC_Login@54eb2b70]" started-at="2021-07-15T14:20:16Z" name="tearDown" finished-at="2021-07-15T14:20:17Z" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.TC_Login -->
+      <class name="com.qa.testcases.TC_Logout">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.TC_Logout@20ca951f]" started-at="2021-07-15T14:21:00Z" name="setup" finished-at="2021-07-15T14:21:09Z" duration-ms="9560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logout()[pri:0, instance:com.qa.testcases.TC_Logout@20ca951f]" started-at="2021-07-15T14:21:09Z" name="logout" description="Logout from the site" finished-at="2021-07-15T14:21:11Z" duration-ms="1728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.TC_Logout@20ca951f]" started-at="2021-07-15T14:21:11Z" name="tearDown" finished-at="2021-07-15T14:21:11Z" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.TC_Logout -->
+      <class name="com.qa.testcases.TC_RequestQuotation">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.qa.testcases.TC_RequestQuotation@63611043]" started-at="2021-07-15T14:20:48Z" name="login" finished-at="2021-07-15T14:20:58Z" duration-ms="9666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testCalculatePremiun()[pri:0, instance:com.qa.testcases.TC_RequestQuotation@63611043]" started-at="2021-07-15T14:20:58Z" name="testCalculatePremiun" description="Calculate Premium" finished-at="2021-07-15T14:20:59Z" duration-ms="1251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculatePremiun -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.TC_RequestQuotation@63611043]" started-at="2021-07-15T14:20:59Z" name="tearDown" finished-at="2021-07-15T14:21:00Z" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.TC_RequestQuotation -->
+      <class name="com.qa.testcases.TC_MultipleLoginDDT">
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.TC_MultipleLoginDDT@45a37759]" started-at="2021-07-15T14:20:18Z" name="loginDDT" data-provider="LoginData" finished-at="2021-07-15T14:20:25Z" duration-ms="6796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.TC_MultipleLoginDDT@45a37759]" started-at="2021-07-15T14:20:25Z" name="tearDown" finished-at="2021-07-15T14:20:25Z" duration-ms="801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.TC_MultipleLoginDDT@45a37759]" started-at="2021-07-15T14:20:25Z" name="loginDDT" data-provider="LoginData" finished-at="2021-07-15T14:20:33Z" duration-ms="7493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.TC_MultipleLoginDDT@45a37759]" started-at="2021-07-15T14:20:33Z" name="tearDown" finished-at="2021-07-15T14:20:33Z" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.TC_MultipleLoginDDT@45a37759]" started-at="2021-07-15T14:20:33Z" name="loginDDT" data-provider="LoginData" finished-at="2021-07-15T14:20:40Z" duration-ms="6583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[_xyz@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[_xyca$4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.TC_MultipleLoginDDT@45a37759]" started-at="2021-07-15T14:20:40Z" name="tearDown" finished-at="2021-07-15T14:20:40Z" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.TC_MultipleLoginDDT@45a37759]" started-at="2021-07-15T14:20:40Z" name="loginDDT" data-provider="LoginData" finished-at="2021-07-15T14:20:48Z" duration-ms="7203" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akash]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.TC_MultipleLoginDDT@45a37759]" started-at="2021-07-15T14:20:48Z" name="tearDown" finished-at="2021-07-15T14:20:48Z" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.TC_MultipleLoginDDT -->
+    </test> <!-- Test -->
+  </suite> <!-- InsuranceBrokerSystem -->
+</testng-results>
